@@ -3,7 +3,10 @@
 
 ## 一、技术栈/运用到的相关知识：
 
-* 
+* MVP框架
+* 多线程：handler异步通信
+* 网络通信：socket+json
+* 数据库：SQLite
 
 ## 二、数据存储方案
 ![数据存储方案](Data_storage.png)
